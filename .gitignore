@@ -1,0 +1,21 @@
+# Exclude datasets
+data/
+
+# Exclude model weights
+models/*.pth
+
+# Exclude Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Exclude Python cache files
+*.pyc
+__pycache__/
+
+# Exclude temporary files and logs
+*.log
+*.tmp
+
+# Exclude system files (Mac, Linux)
+.DS_Store
+Thumbs.db
+

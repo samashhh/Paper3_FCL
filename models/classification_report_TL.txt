@@ -1,0 +1,12 @@
+              precision    recall  f1-score   support
+
+         PET       0.87      0.88      0.88       249
+          PP       0.89      0.70      0.78       330
+          PE       0.75      0.90      0.82       289
+       TETRA       0.99      0.96      0.97       180
+          PS       1.00      0.98      0.99       254
+         PVC       0.93      0.99      0.96       261
+
+    accuracy                           0.89      1563
+   macro avg       0.90      0.90      0.90      1563
+weighted avg       0.90      0.89      0.89      1563
